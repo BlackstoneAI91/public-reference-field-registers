@@ -31,6 +31,31 @@
           "href": "/documenting-the-unhappy-path-of-a-website-enquiry-form"
         }
       ]
+    },
+    {
+      "group": "Review registers",
+      "pages": [
+        {
+          "title": "Sinar Saredah",
+          "href": "/recording-customer-approval-of-a-carpet-scope-boundary"
+        },
+        {
+          "title": "Petpalz Malaysia",
+          "href": "/recording-which-pet-supplies-belong-to-a-saved-basket"
+        },
+        {
+          "title": "Eyonic CCTV",
+          "href": "/filing-two-language-queue-counter-review-copy"
+        },
+        {
+          "title": "San Techno",
+          "href": "/recording-which-attachments-a-wafer-collection-enquiry-cites"
+        },
+        {
+          "title": "Blackstone Intelligence",
+          "href": "/recording-when-human-reviewer-overrides-ai-enquiry-tags"
+        }
+      ]
     }
   ]
 }
