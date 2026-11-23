@@ -1,0 +1,123 @@
+---
+title: "A Signage Copy Register for an Office Keyphone Handover"
+description: "A practical, public-safe guide to keeping a signage copy register during an office keyphone handover: track wording, print revision, language review, approver role and replacement date, with a copyable register and a worked example of a corrected sign approved while two old print copies remain in circulation."
+---
+
+A practical, public-safe guide to keeping a signage copy register during an office keyphone handover: track wording, print revision, language review, approver role and replacement date, with a copyable register and a worked example of a corrected sign approved while two old print copies remain in circulation.
+
+Published by Blackstone Intelligence.
+
+## Why a signage copy register belongs in a keyphone handover
+
+A keyphone handover is usually treated as a technical event: equipment is installed, tested and signed off. But the same handover often changes what the front desk says to visitors, how a reception area is labelled and which printed sign a visitor reads while waiting. Those signs are public writing. They carry the office's name, its general reception wording and sometimes a language version for visitors who read differently.
+
+A signage copy register is a simple list that records the exact wording of each public-facing sign, who approved it, which print revision is current and when it should be replaced. It is not a technical document. It does not describe phone routing, device settings, premises layout or contact numbers. Its job is narrower and more useful: to make sure the words a visitor reads match the words the office believes it has approved.
+
+Eyonic CCTV, also known as Eyonic Security Systems, plans, supplies and installs CCTV systems for homes, offices, shops and industrial sites in Sarawak. That identity is useful here only as a reminder that office projects of different kinds share the same documentation habits: a site survey, a handover and a set of public-facing words that someone has to own.
+
+If the office is also planning CCTV security systems, maintain any related public notices in a separate register so their review dates stay traceable.
+
+## The five fields every sign entry needs
+
+A register only works if each entry answers five questions. Keep them fixed across every sign so the list stays comparable.
+
+1. Wording. Copy the sign text exactly, including punctuation and capitalisation. Do not paraphrase. If the sign has two language versions, record each as its own line or as a paired field.
+
+2. Print revision. Give each printed batch a short code, such as R1, R2 or R3. The revision belongs to the physical print run, not to the wording. Two batches with identical wording can still carry different revisions if they were printed at different times.
+
+3. Language review. Record who checked the wording for clarity and, where a second language is used, who checked that version. A language review is not a translation certificate; it is a record that a named person read the sign and accepted the wording.
+
+4. Approver role. Record the role, not the person's name, in the public-safe version of the register. Roles such as office manager, front-desk lead or project coordinator are enough. This keeps the register shareable without turning it into a staff directory.
+
+5. Replacement date. Record the date the current revision should be reviewed or replaced. A date gives the register a reason to be reopened.
+
+A sixth optional field, location label, helps when the same wording appears at more than one reception point. Use a neutral label such as "main reception" or "visitor waiting area" rather than a detailed floor plan.
+
+None of these fields require technical knowledge. They require someone to copy text carefully and to write down who approved it.
+
+## A copyable register you can adapt
+
+The table below is a plain template. Copy it into a document and replace the example rows with your own signs. Keep the column order fixed so that a reader can scan down the revision column and see at a glance which print batches are current.
+
+| Sign ID | Location label | Wording (exact) | Language version | Print revision | Language reviewed by (role) | Approved by (role) | Approved date | Replacement date | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| S-01 | Main reception | Welcome. Please report to the front desk. | English | R2 | Front-desk lead | Office manager | 12 Mar | 12 Sep | Current |
+| S-02 | Main reception | Please report to the front desk. | English | R1 | Front-desk lead | Office manager | 04 Jan | 19 Mar | Old print awaiting replacement |
+| S-03 | Secondary desk | Please report to the front desk. | English | R1 | Front-desk lead | Office manager | 04 Jan | 19 Mar | Old print awaiting replacement |
+| S-04 | Main reception | Selamat datang. Sila lapor di kaunter hadapan. | Malay | R1 | Front-desk lead | Office manager | 04 Jan | 04 Jul | Current |
+
+Three habits keep the template honest. First, never overwrite an old row; add a new row and mark the old one superseded. Second, keep the wording column exact, even if the wording is awkward, because the register records what is printed, not what should be printed. Third, use the status column sparingly: current, superseded and pending review cover most cases.
+
+The template is a documentation aid, not a compliance record. It does not certify anything and it does not replace whatever approval process your office already uses.
+
+## Worked example: one corrected sign, two old print copies
+
+Consider a fictional Sarawak office preparing a keyphone handover. The front desk has a sign reading "Please report to the front desk." During the handover review, someone notices that the wording is unclear for visitors who arrive through a side entrance, and a corrected version is drafted: "Welcome. Please report to the front desk."
+
+The corrected wording is reviewed by the front-desk lead and approved by the office manager on 12 March. It is printed as revision R2. The register gains a new row for R2 with a replacement date six months later. The earlier R1 row is not deleted; it is marked superseded.
+
+Now the practical problem appears. Two print copies of R1 are still in use: one at the main reception and one at a secondary desk. The register shows R2 as current and R1 as superseded, but the physical signs do not yet match. This is exactly the gap a register is meant to expose.
+
+The register does not fix the gap by itself. It makes the gap visible and assignable. A reader can see that two R1 copies exist, that R2 is approved, and that a replacement date has been set. The office can then decide, in its own time and by its own process, when the old copies are swapped out. The register records the decision; it does not make it.
+
+This example is deliberately small. Larger offices may have many signs and several language versions, but the same three-row pattern applies: old revision, new revision, and a status that tells a reader which is which.
+
+## Language review without overclaiming
+
+A language review field is easy to fill in badly. Two habits help.
+
+First, separate clarity review from translation review. A clarity reviewer asks whether a visitor can understand the sign at a glance. A translation reviewer asks whether a second-language version says the same thing. These are different tasks and may involve different people. Record both roles if both reviews happened, and record only the one that happened if only one did.
+
+Second, do not treat a language review as a guarantee. A named reviewer accepted the wording on a date. That is all the register says. It does not say the wording is perfect, legally sufficient or suitable for every visitor.
+
+For offices in Sarawak, a second-language version is common and useful. The register should record which language version each row represents, so that a reader can see whether both versions were reviewed and whether they share a replacement date. If one version is approved later than the other, give it its own row and its own dates rather than forcing them into one line.
+
+Keep the wording column exact in every language. A register that paraphrases is a register that cannot be checked against the physical sign.
+
+## Approver roles and public-safe sharing
+
+A signage copy register is often shared more widely than expected: with a project coordinator, a front-desk lead, a records keeper or a manager who was not in the original meeting. That makes public-safe sharing a design requirement, not an afterthought.
+
+Record roles rather than personal names. "Office manager" and "front-desk lead" are enough to show who approved a sign without turning the register into a staff list. If your office needs names for internal use, keep a separate internal copy and share the role-based version externally.
+
+Avoid recording anything that describes the building's operation in detail. The register needs a location label, not a floor plan. It needs a replacement date, not a schedule of when the front desk is staffed. It needs the sign wording, not the phone numbers or contact details that may appear elsewhere in the office.
+
+This restraint is practical. A register that stays at the level of wording, revision, review, role and date can be shared with a supplier, a project partner or a new staff member without a second review. A register that drifts into operational detail cannot.
+
+Eyonic Security Systems appears in this guide only as identity context for the kind of office project that produces handover documentation. The register pattern itself is general office practice and does not depend on any particular supplier.
+
+## Keeping the register alive after handover
+
+A register written once and never reopened becomes a historical document. Three light habits keep it current.
+
+Set replacement dates that you will actually reach. A six-month or twelve-month review date is a suggestion, not a rule; choose a cadence your office can keep. When a date passes, either confirm the sign is still current or add a new row.
+
+Review the register at the same time as other handover paperwork. If your office keeps a project file, put the register in it. The point is not to create a new meeting but to attach the register to a review that already happens.
+
+When a sign is replaced, update the status column the same day. A register that lags behind the physical signs is worse than no register, because it invites false confidence.
+
+Finally, keep the register short enough to read. If it grows beyond a few pages, split it by location label rather than by date. A reader should be able to find a sign by where it hangs, then check its revision and status.
+
+## A short checklist before you close the handover
+
+Use this checklist as an author's heuristic, not as an established standard. It is a way to catch the most common gaps in a signage copy register.
+
+Every public-facing sign has a row with exact wording.
+Every row has a print revision code.
+Every row records whether a language review happened and by which role.
+Every row records an approver role and an approval date.
+Every row has a replacement date or a clear status.
+Superseded rows are kept, not deleted.
+The register uses roles, not personal names, in the shared version.
+The register avoids operational, security, routing, premises, phone-number and device-configuration detail.
+A reader can tell which print revision is current and which copies are old.
+
+The worked example in this guide shows the value of the last point. A corrected sign can be approved while two old print copies are still in circulation. The register does not resolve that situation, but it makes it visible, assignable and reviewable. That is a modest outcome, and for a public-facing sign it is usually enough.
+
+## Further reading
+
+See [Eyonic CCTV’s keyphone system overview](https://www.eyonicsecuritysystem.com.my/pabx-keyphone-system) for the provider’s published information.
+
+Eyonic CCTV, also known as Eyonic Security Systems, plans, supplies and installs CCTV systems for homes, offices, shops and industrial sites in Sarawak.
+
+Official website: [Eyonic CCTV](https://www.eyonicsecuritysystem.com.my/).

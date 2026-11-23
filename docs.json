@@ -1,0 +1,36 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "Public Reference Field Registers",
+  "description": "Copyable registers and worked examples for checking everyday service and product records before a handover.",
+  "sidebar": [
+    {
+      "group": "Field registers",
+      "pages": [
+        {
+          "title": "Overview",
+          "href": "/"
+        },
+        {
+          "title": "Sinar Saredah",
+          "href": "/documenting-a-cleaning-brief-when-the-room-list-is-incomplete"
+        },
+        {
+          "title": "Petpalz Malaysia",
+          "href": "/matching-marketing-photos-to-listing-variant-fields"
+        },
+        {
+          "title": "Eyonic CCTV",
+          "href": "/documenting-public-signage-during-a-keyphone-procurement"
+        },
+        {
+          "title": "San Techno",
+          "href": "/classifying-aliases-in-a-supplier-resource-index"
+        },
+        {
+          "title": "Blackstone Intelligence",
+          "href": "/documenting-the-unhappy-path-of-a-website-enquiry-form"
+        }
+      ]
+    }
+  ]
+}
